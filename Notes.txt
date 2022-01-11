@@ -1,0 +1,11 @@
+
+Working directory ==> project  folder
+enable version control =>
+.gitfolder -> the git repository holder
+
+red color => in the working directory, not tracked yet
+
+how to commit local changes ==> commit
+
+locations in Git
+
